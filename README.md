@@ -1,25 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```
+The point of this exercise is to demonstrate that, if you think about your models (building blocks, in our case we only needed a todo item) Rails can automatically generate a sample website for you. Then, all you have to do is make some adjustments to get a demo working.
+```
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Todo-Blog

@@ -1,0 +1,23 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+a:visited {
+  color: blue;
+}
+
+tr {
+  font-size: 1.5em;
+}
+
+td {
+  font-size: .9em;
+  color: black;
+  background: gold;
+  font-family: monospace;
+  text-decoration: underline;
+}
+
+a {
+    font-size: 1em;
+}
